@@ -38,6 +38,8 @@ captures/
 
 # Keystore files
 *.jks
+
+# IN Project
 .idea/
 gradle/
 gradlew

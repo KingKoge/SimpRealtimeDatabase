@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "687785859253",
+    "firebase_url": "https://simprealtimedatabase.firebaseio.com",
+    "project_id": "simprealtimedatabase",
+    "storage_bucket": "simprealtimedatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687785859253:android:092ec16d8d635f98",
+        "android_client_info": {
+          "package_name": "com.ssru.mrsmile.simprealtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687785859253-4i629eenpqfavf0ffkii9h46np4immfq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ssru.mrsmile.simprealtimedatabase",
+            "certificate_hash": "FC526A8CC20FB6A8F38FC4CD7ECE2B9832D4F2FB"
+          }
+        },
+        {
+          "client_id": "687785859253-2fnmi2okfl8abdidnre732t3v9ukqob7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjnjgA5qivM-TE63aPqdP5MssZJnMZ_NQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687785859253-2fnmi2okfl8abdidnre732t3v9ukqob7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
